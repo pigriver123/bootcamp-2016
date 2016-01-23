@@ -1,3 +1,27 @@
-A readme
+**********************
+Ordinary Least Square
+*********************
+#.Docstring:
 
-Hi,how are you, Matthew?
+
+
+
+
+
+
+#.parameters:
+
+
+
+#.Returns:
+
+
+#Notes:
+
+
+#.References:
+
+
+#.Examples:
+
+
